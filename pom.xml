@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.knf.dev.demo</groupId>
 	<artifactId>apiEtudiant</artifactId>
-	<version></version>
+	<version>1</version>
 	<name>backend</name>
 	<description>API GET</description>
 	<properties>
