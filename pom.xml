@@ -10,8 +10,7 @@
 		<relativePath />
 	</parent>
 	<groupId>com.knf.dev.demo</groupId>
-	<artifactId>API_GET_</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>apiEtudiant_</artifactId>
 	<name>backend</name>
 	<description>API GET</description>
 	<properties>
